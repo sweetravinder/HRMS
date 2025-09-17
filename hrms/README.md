@@ -1,4 +1,4 @@
-Simple HRMS Starter (inspired-by IceHRM layout) - Ready to upload to cPanel
+Simple HRMS Starter - Ready to upload to cPanel
 -------------------------------------------------------------------------
 This is a lightweight, original HRMS scaffold (PHP + MySQL) that implements:
 - User login (simple session-based)
